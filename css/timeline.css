@@ -8,15 +8,23 @@
 }
 
 .boxA {
-    background: url(https://images.unsplash.com/photo-1453785675141-67637e2d4b5c?dpr=2&auto=format&fit=crop&w=1500&h=918&q=80&cs=tinysrgb&crop=);
+    background: url("../images/製作GitLab手冊.png");
 }
 
 .boxB {
-    background: url(https://images.unsplash.com/photo-1490921045028-16ab0b47b757?dpr=2&auto=format&fit=crop&w=1500&h=2000&q=80&cs=tinysrgb&crop=);
+    background: url("../images/研究前端動畫效果.png");
 }
 
 .boxC {
-    background: url(https://images.unsplash.com/photo-1493585552824-131927c85da2?dpr=2&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=);
+    background: url("../images/增修案-1.png");
+}
+
+.boxD {
+    background: url("../images/增修案-2.png");
+}
+
+.boxE {
+    background: url("../images/開發案.jpg");
 }
 
 .bg-cover {
