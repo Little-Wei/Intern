@@ -1,0 +1,37 @@
+.navbar {
+    background-color: #FDF6DE;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    background-color: #FDF6DE;
+    color: #fff !important;
+}
+
+.goTopBtn{
+    color: #edd5c3bd;
+}
+.goTopBtn:hover{
+    color: #ddb295bd;
+}
+
+.container{
+    width: 1600px;
+}
+
+.fab{
+    color:rgb(195, 182, 182)
+}
+
+.itemTitle{
+    font-family: 'Noto Serif TC', serif;
+    font-size: 2em;
+    padding-bottom: 0.5em;
+    color: 	#834011;
+    font-weight: bolder ;
+}
+
+#footer {
+    background: hsl(46, 89%, 93%);
+    padding: 0.5cm
+}
+
