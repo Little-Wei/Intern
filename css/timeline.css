@@ -27,6 +27,14 @@
     background: url("../images/開發案.jpg");
 }
 
+.boxF {
+    background: url("../images/開發過程的態度.jpg");
+}
+
+.boxG {
+    background: url("../images/時程評估的調整.jpg");
+}
+
 .bg-cover {
     background-size: cover;
     background-position: center center;
