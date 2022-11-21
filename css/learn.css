@@ -7,31 +7,31 @@
     color: #fff !important;
 }
 
-.goTopBtn{
+.goTopBtn {
     color: #edd5c3bd;
 }
-.goTopBtn:hover{
+
+.goTopBtn:hover {
     color: #ddb295bd;
 }
 
-.container{
+.container {
     width: 1600px;
 }
 
-.fab{
-    color:rgb(195, 182, 182)
+.fab {
+    color: rgb(195, 182, 182)
 }
 
-.itemTitle{
+.itemTitle {
     font-family: 'Noto Serif TC', serif;
     font-size: 2em;
     padding-bottom: 0.5em;
-    color: 	#834011;
-    font-weight: bolder ;
+    color: #834011;
+    font-weight: bolder;
 }
 
 #footer {
     background: hsl(46, 89%, 93%);
     padding: 0.5cm
 }
-
